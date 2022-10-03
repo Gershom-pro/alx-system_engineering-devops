@@ -1,3 +1,1 @@
-#!/bin/bash
-Shell basics project
-why?
+This is a readme on the Shell Project
